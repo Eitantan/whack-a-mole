@@ -1,2 +1,4 @@
-# whack-a-mole
-Requested by Elan Malka
+# Whack a Mole
+> Requested by Elan Malka
+
+#### Notes by requester:
